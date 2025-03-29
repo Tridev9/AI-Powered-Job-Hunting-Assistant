@@ -1,0 +1,5 @@
+streamlit 
+google-generativeai 
+firecrawl-py 
+python-dotenv
+PyPDF2
