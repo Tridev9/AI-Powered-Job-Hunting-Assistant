@@ -1,6 +1,6 @@
 # AI Job Hunting Assistant 🤖
 
-![Project Banner](/banner.png) *(Upload your banner image to assets/)*
+![Project Banner](/banner.png) 
 
 An all-in-one AI-powered toolkit for job seekers featuring resume optimization, smart job matching, interview preparation, and networking assistance.
 
